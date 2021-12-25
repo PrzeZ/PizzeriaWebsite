@@ -1,0 +1,51 @@
+body
+{
+  background-color: white;
+  background-image: url("https://images.pexels.com/photos/2619967/pexels-photo-2619967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#container
+{
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	font-family: 'Pushster', cursive;
+	color: white;
+	background-color: red;
+	margin-top: 20px;
+	font-size: 44px;
+	letter-spacing: 3px;
+}
+
+#menu
+{
+	background-color: white;
+    color: red;
+}
+
+#topbar
+{
+	
+}
+
+#sidebar
+{
+	
+}
+
+#content
+{
+	
+}
+
+#footer
+{
+	
+}
