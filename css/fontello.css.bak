@@ -72,7 +72,7 @@
 .icon-heart:before { content: '\e80f'; } /* '' */
 .icon-search:before { content: '\e810'; } /* '' */
 .icon-restaurant:before { content: '\e832'; } /* '' */
-.icon-facebook-rect:before { content: '\f301'; font-size: 72px; margin-top: 40px;} /* '' */
+.icon-facebook-rect:before { content: '\f301'; } /* '' */
 .icon-googleplus-rect:before { content: '\f309'; font-size: 72px; margin-top: 40px;} /* '' */
 .icon-facebook-circled:before { content: '\f30d'; } /* '' */
 .icon-gplus:before { content: '\f30f'; font-size: 72px; margin-top: 40px;} /* '' */

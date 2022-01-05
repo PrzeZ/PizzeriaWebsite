@@ -5,7 +5,7 @@
 	<meta charset="utf8">
 
   <link rel="stylesheet" href="styles.css">
-  <link rel="" href="css/fontello.css">
+  <link rel="stylesheet" href="css/fontello.css">
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,12 +17,17 @@
 	<div class= "wrapper">	
 		<div class= "header">
 			<div class= "logo">
-			Pizzeria Mafioso
+			<i class="icon-restaurant"></i>Pizzeria Mafioso
 		</div>
 	</div>
 
-		<div class ="nav">
-		Strona główna Menu O nas Imprezy Firmowe Franczyza Kontakt
+		<div class ="navbar">
+		<ol>
+			<li><a href="#">Strona główna</a></li>
+			<li><a href="#">Menu</a></li>
+			<li><a href="#">Imprezy firmowe</a></li>
+			<li><a href="#">Kontakt</a></li>
+		</ol>
 		</div>
 
 		<div class= "content">
@@ -77,12 +82,22 @@
 		</div>
 	
 		<div class="socials">
-			<div class= "socialdivs">
+			<div class="socialdivs">
+				<div class="fb"> 
+					<i class="icon-facebook-rect"> </i>
+				</div>
+				<div class="ig">
+					<i class="icon-instagram"> </i>
+				</div>
+				<div class="gplus">
+					<i class="icon-googleplus-rect"> </i>
+				</div>
+				<div style="clear:both"></div>
 			</div>
 		</div>
 	
 		<div class= "footer">
-		Copyright Mafioso Pizza&copy 2007;
+		&copy Mafioso Pizza +48 123 123 123
 		</div>
 	
 	</div>
