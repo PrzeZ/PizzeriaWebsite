@@ -6,6 +6,14 @@ body
   margin: 0 !important;
 }
 
+a
+{
+	color: #ffffff;
+}
+
+
+
+@media all {
 .wrapper
 {
 	width: 100%;
@@ -92,7 +100,7 @@ ol > li:hover > a
 {
 	width: 100%;
 	text-align: center;
-	background-color: #292929;
+	background-color: #222222;
 }
 
 .socialdivs
@@ -111,7 +119,19 @@ ol > li:hover > a
 
 .fb:hover
 {
-	background-color: #4668b3;
+	background-color: #4267B2;
+}
+
+.twitter
+{
+	width: 250px;
+	height: 155px;
+	float: left;
+}
+
+.twitter:hover
+{
+	background-color: #00acee;
 }
 
 .ig
@@ -121,6 +141,11 @@ ol > li:hover > a
 	float: left;
 }
 
+.ig:hover
+{
+	background-color: #fbad50;
+}
+
 .gplus
 {
 	width: 250px;
@@ -128,9 +153,76 @@ ol > li:hover > a
 	float: left;
 }
 
+.gplus:hover
+{
+	background-color: #db4a39;
+}
+
 .footer
 {
 	text-align: center;
 	background-color: #222222;
 	padding: 30px;
+}}
+
+@media (max-width: 1000px) {
+
+
+.content
+{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #e34334
+	text-align: justify;
+	/*background-image: url("https://images.pexels.com/photos/2619967/pexels-photo-2619967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");*/
+	background-repeat: no-repeat;
+    background-size: contain;
+	padding-top: 10 px;
 }
+
+.socials
+{
+	width: 100%;
+	text-align: center;
+	background-color: #222222;
+}
+
+.fb
+{
+	width: 250px;
+	height: 155px;
+	float: left;
+	font-size: 35px;
+}
+
+.twitter
+{
+	width: 250px;
+	height: 155px;
+	float: left;
+	font-size: 35px;
+}
+
+.ig
+{
+	width: 250px;
+	height: 155px;
+	float: left;
+	font-size: 35px;
+}
+
+.gplus
+{
+	width: 250px;
+	height: 155px;
+	float: left;
+	font-size: 35px;
+}
+
+.footer
+{
+	text-align: center;
+	background-color: #222222;
+	padding: 30px;
+}}

@@ -3,11 +3,12 @@
 
 <head>
 	<meta charset="utf8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="css/fontello.css">
+	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="css/fontello.css">
   
-  <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Pushster&display=swap" rel="stylesheet">
 	<title>Pizza Mafioso</title>
@@ -84,7 +85,12 @@
 		<div class="socials">
 			<div class="socialdivs">
 				<div class="fb"> 
-					<i class="icon-facebook-rect"> </i>
+				<a href="https://pl-pl.facebook.com"> 
+					<i class="icon-facebook-rect">  </i>
+					</a>
+				</div>
+				<div class="twitter"> 
+					<i class="icon-twitter"> </i>
 				</div>
 				<div class="ig">
 					<i class="icon-instagram"> </i>
