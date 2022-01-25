@@ -43,13 +43,13 @@
 
 			  <div class="mySlides fade">
 				<div class="numbertext">2 / 3</div>
-				<img src="https://images.pexels.com/photos/2619967/pexels-photo-2619967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%">
+				<img src="https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%">
 				<div class="text">Caption Two</div>
 			  </div>
 
 			  <div class="mySlides fade">
 				<div class="numbertext">3 / 3</div>
-				<img src="https://images.pexels.com/photos/2619967/pexels-photo-2619967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%">
+				<img src="https://images.pexels.com/photos/1049626/pexels-photo-1049626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%">
 				<div class="text">Caption Three</div>
 			  </div>
 
@@ -96,7 +96,6 @@
 		<div class= "footer">
 		&copy Mafioso Pizza +48 123 123 123
 		</div>
-	
 	</div>
 	
 	<script src="slider.js"></script>
