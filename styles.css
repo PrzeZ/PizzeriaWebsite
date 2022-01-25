@@ -12,8 +12,7 @@ a
 }
 
 @media all 
-{
-	
+{	
 .wrapper
 {
 	width: 100%;
@@ -34,7 +33,7 @@ a
 
 .navbar
 {
-	padding: 10px 0;
+	padding: 10px 10;
 	width: 100%;
 	height: 75px;
 	background-color: #e34334;
@@ -262,7 +261,7 @@ ol > li:hover > a
 
 @media (max-width: 1000px)
 {
-
+	
 .content
 {
 	width: 800px;
@@ -289,8 +288,6 @@ ol > li:hover > a
 	margin-right: auto;
 }
 
-
-
 .footer
 {
 	text-align: center;
@@ -302,7 +299,7 @@ ol > li:hover > a
 	
 .navbar
 {
-	padding: 10px 0;
+	padding: 10px 10;
 	width: 100%;
 	height: 100px;
 	background-color: #e34334;
@@ -369,7 +366,7 @@ ol > li:hover > a
 	
 .navbar
 {
-	padding: 10px 0;
+	padding: 10px 10;
 	width: 100%;
 	height: 200px;
 	background-color: #e34334;
