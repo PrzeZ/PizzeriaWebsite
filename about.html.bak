@@ -48,16 +48,16 @@
 			<p class="w3-padding-16 w3-stretch">
 			<img src="img_restaurant.jpg" style="width:100%" alt="Restaurant">
 			</p>
-			<h1><b>Opening Hours</b></h1>
+			<h1><b>Godziny otwarcia</b></h1>
 
 			<div class="w3-row">
 			<div class="w3-half">
-			<p>Mon &amp; Tue CLOSED</p>
-			<p>Wednesday 10.00 - 24.00</p>
-			<p>Thursday 10:00 - 24:00</p>
+			<p>Poniedziałek &amp; Wtorek ZAMKNIĘTE</p>
+			<p>Środa 10.00 - 24.00</p>
+			<p>Czwartek 10:00 - 24:00</p>
 			</div>
 			<div class="w3-half">
-			<p>Friday 10:00 - 12:00</p>
+			<p>Piątek 10:00 - 12:00</p>
 			<p>Saturday 10:00 - 23:00</p>
 			<p>Sunday Closed</p>
 			</div>
@@ -93,7 +93,7 @@
 		</div>
 	
 		<div class= "footer">
-		&copy Mafioso Pizza +48 123 123 123
+		&copy Mafioso Pizza +48 123 123 1234
 		</div>
 	</div>
 </body>
