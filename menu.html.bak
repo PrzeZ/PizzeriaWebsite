@@ -32,23 +32,12 @@
 		</div>
 
 		<div class= "content">
-			<table>
-				  <tr>
-					<th>Pizza</th>
-					<th>Mała</th>
-					<th>Duża</th>
-				  </tr>
-				  <tr>
-					<td>Margherita</td>
-					<td>20 zł</td>
-					<td>30 zł</td>
-				  </tr>
-				  <tr>
-					<td>Pepperoni</td>
-					<td>25 zł</td>
-					<td>35 zł</td>
-				  </tr>
-				</table>
+			<div class= "menuitem">
+				Margherita
+				Sos, ser
+				Mała: 20 zł
+				Duża 25 zł
+			</div>
 		</div>
 	
 		<div class="socials">

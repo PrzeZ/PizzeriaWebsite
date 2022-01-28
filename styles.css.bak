@@ -165,7 +165,6 @@ ol > li:hover > a
 }
 * {box-sizing:border-box}
 
-/* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
   position: relative;
@@ -204,7 +203,6 @@ ol > li:hover > a
   background-color: rgba(0,0,0,0.8);
 }
 
-/* Caption text */
 .text {
   color: #f2f2f2;
   font-size: 15px;
@@ -215,7 +213,6 @@ ol > li:hover > a
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
@@ -224,7 +221,7 @@ ol > li:hover > a
   top: 0;
 }
 
-/* The dots/bullets/indicators */
+/* The dots */
 .dot {
   cursor: pointer;
   height: 15px;
@@ -256,6 +253,11 @@ ol > li:hover > a
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+.menuitem
+{
+	margin-left: 40 px;
 }
 }
 
