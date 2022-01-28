@@ -81,7 +81,7 @@
 .icon-instagram-1:before { content: '\f32d'; font-size: 72px; margin-top: 40px;} /* '' */
 }
 
-@media (max-width: 500px){
+@media (max-width: 600px){
 .icon-thumbs-up:before { content: '\e800'; font-size: 35px; margin-top: 20px;} /* '' */
 .icon-thumbs-down:before { content: '\e801'; font-size: 35px; margin-top: 20px;} /* '' */
 .icon-home:before { content: '\e802'; font-size: 35px; margin-top: 20px;} /* '' */
@@ -102,7 +102,7 @@
 .icon-restaurant:before { content: '\e832'; font-size: 35px; margin-top: 20px;} /* '' */
 .icon-facebook-rect:before { content: '\f301'; font-size: 35px; margin-top: 20px;} /* '' */
 .icon-googleplus-rect:before { content: '\f309'; font-size: 35px; margin-top: 20px;} /* '' */
-.icon-facebook-circled:before { content: '\f30d'; font-size: 35px; margin-top: 20px; /* '' */
+.icon-facebook-circled:before { content: '\f30d'; font-size: 35px; margin-top: 20px;} /* '' */
 .icon-gplus:before { content: '\f30f'; font-size: 35px; margin-top: 20px;} /* '' */
 .icon-instagram:before { content: '\f31e'; font-size: 35px; margin-top: 20px;} /* '' */
 .icon-instagram-1:before { content: '\f32d'; font-size: 35px; margin-top: 20px;} /* '' */
@@ -132,5 +132,5 @@
 .icon-facebook-circled:before { content: '\f30d'; font-size: 20px; margin-top: 10px;} /* '' */
 .icon-gplus:before { content: '\f30f'; font-size: 20px; margin-top: 10px;} /* '' */
 .icon-instagram:before { content: '\f31e'; font-size: 20px; margin-top: 10px;} /* '' */
-.icon-instagram-1:before { content: '\f32d'; font-size: 20px; margin-top: 10px; } /* '' */
+.icon-instagram-1:before { content: '\f32d'; font-size: 20px; margin-top: 10px;} /* '' */
 }
