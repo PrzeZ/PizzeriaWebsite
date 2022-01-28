@@ -258,6 +258,8 @@ ol > li:hover > a
 .menuitem
 {
 	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 }
 

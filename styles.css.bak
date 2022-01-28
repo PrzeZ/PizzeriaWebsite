@@ -257,7 +257,9 @@ ol > li:hover > a
 
 .menuitem
 {
-	margin-left: 40 px;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 }
 

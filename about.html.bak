@@ -11,6 +11,8 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Pushster&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	
 	<title>Pizza Mafioso</title>
 </head>
 <body>
@@ -26,13 +28,42 @@
 		<ol>
 			<li><a href="index.html">Strona główna</a></li>
 			<li><a href="menu.html">Menu</a></li>
-			<li><a href="imprezy.html">Imprezy firmowe</a></li>
-			<li><a href="kontakt.html">Kontakt</a></li>
+			<li><a href="about.html">Więcej o nas</a></li>
+			<li><a href="contact.html">Kontakt</a></li>
 		</ol>
 		</div>
 
 		<div class= "content">
-		TODO
+			<!-- About -->
+			<div id="about" class="w3-container w3-black w3-grayscale w3-xlarge w3-padding-64">
+
+			<h1 class="w3-center w3-jumbo">O nas</h1>
+
+			<p>The Pizza Restaurant was founded in blabla by Mr. Italiano in lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+			<p><strong>The Chef?</strong> Mr. Italiano himself
+			<img src="/w3images/chef.jpg" style="width:150px" class="w3-circle w3-right" alt="Chef"></p>
+
+			<p>We are proud of our interiors.</p>
+			<p class="w3-padding-16 w3-stretch">
+			<img src="img_restaurant.jpg" style="width:100%" alt="Restaurant">
+			</p>
+			<h1><b>Opening Hours</b></h1>
+
+			<div class="w3-row">
+			<div class="w3-half">
+			<p>Mon &amp; Tue CLOSED</p>
+			<p>Wednesday 10.00 - 24.00</p>
+			<p>Thursday 10:00 - 24:00</p>
+			</div>
+			<div class="w3-half">
+			<p>Friday 10:00 - 12:00</p>
+			<p>Saturday 10:00 - 23:00</p>
+			<p>Sunday Closed</p>
+			</div>
+			</div>
+
+			</div>
 		</div>
 	
 		<div class="socials">
