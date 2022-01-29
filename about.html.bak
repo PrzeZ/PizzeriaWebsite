@@ -39,18 +39,16 @@
 
 			<h1 class="w3-center w3-jumbo">O nas</h1>
 
-			<p>The Pizza Restaurant was founded in blabla by Mr. Italiano in lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			<p>Jesteśmy jedyną włoską siecia restauracji w Polsce. Nasze oryginalne receptury są przekazywane w rodzinie od pokoleń i to one sprawiają że nasza pizza smakuje tak dobrze.</p>
 
-			<p><strong>The Chef?</strong> Mr. Italiano himself
-			<img src="/w3images/chef.jpg" style="width:150px" class="w3-circle w3-right" alt="Chef"></p>
+			<img src="https://images.pexels.com/photos/2180874/pexels-photo-2180874.jpeg?cs=srgb&dl=pexels-athena-2180874.jpg&fm=jpg" style="width:500px" class="w3-circle" alt="Chef"></p>
 
-			<p>We are proud of our interiors.</p>
-			<p class="w3-padding-16 w3-stretch">
-			<img src="img_restaurant.jpg" style="width:100%" alt="Restaurant">
+			<p class="w3-padding-16 w3-center">
 			</p>
-			<h1><b>Godziny otwarcia</b></h1>
+			
 
 			<div class="w3-row">
+			<h1><b>Godziny otwarcia</b></h1>
 			<div class="w3-half">
 			<p>Poniedziałek &amp; Wtorek ZAMKNIĘTE</p>
 			<p>Środa 10.00 - 24.00</p>
@@ -58,8 +56,8 @@
 			</div>
 			<div class="w3-half">
 			<p>Piątek 10:00 - 12:00</p>
-			<p>Saturday 10:00 - 23:00</p>
-			<p>Sunday Closed</p>
+			<p>Sobota 10:00 - 23:00</p>
+			<p>Niedziela ZAMKNIĘTE</p>
 			</div>
 			</div>
 

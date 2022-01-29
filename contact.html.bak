@@ -35,16 +35,14 @@
 
 		<div class= "content">
 			<!-- Contact -->
-			<img id="contact" src="map.jpg" class="w3-image w3-greyscale" alt="Map" style="width:100%">
-
-			<div class="w3-container w3-blue-grey w3-grayscale-min w3-xlarge w3-padding-top-32">
+			<div class="w3-container w3-black w3-grayscale-min w3-xlarge w3-padding-top-32">
 
 			<h1 class="w3-center w3-jumbo">Kontakt</h1>
 
 			<p>Zadzwoń pod +48 123 123 1234</p>
 			<p>Oferujemy pełny catering na wydarzenia, rozumiemy wasze potrzeby i dostarczymy najlepsze jedzenie zarówno popd względem smaku jak i wyglądu.</p>
 
-			<p class="w3-xxlarge"><b>Zarezerwuj</b> stolik, catering lub zadaj zadaj pytanie:</p>
+			<p class="w3-xxlarge"><b>Zarezerwuj</b> stolik, catering lub zadaj pytanie:</p>
 
 			<form action="/action_page.php" target="_blank">
 

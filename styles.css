@@ -145,14 +145,14 @@ ol > li:hover > a
 	background-color: #fbad50;
 }
 
-.gplus
+.yt
 {
 	width: 250px;
 	height: 155px;
 	float: left;
 }
 
-.gplus:hover
+.yt:hover
 {
 	background-color: #db4a39;
 }
@@ -351,11 +351,11 @@ ol > li:hover > a
 	float: left;
 }
 
-.gplus
+.yt
 {
 	width: 125px;
 	height: 75px;
-	float: left;s
+	float: left;
 }
 
 .footer
@@ -416,7 +416,7 @@ ol > li:hover > a
 	float: left;
 }
 
-.gplus
+.yt
 {
 	width: 60px;
 	height: 40px;

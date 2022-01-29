@@ -89,9 +89,9 @@
 						<i class="icon-instagram"> </i>
 					</a>
 				</div>
-				<div class="gplus">
+				<div class="yt">
 					<a href="https://www.google.pl">
-						<i class="icon-googleplus-rect"> </i>
+						<i class="icon-youtube"> </i>
 					</a>
 				</div>
 				<div style="clear:both"></div>
@@ -99,7 +99,7 @@
 		</div>
 	
 		<div class= "footer">
-		&copy Mafioso Pizza +48 123 123 123
+		&copy Mafioso Pizza +48 123 123 1234
 		</div>
 	</div>
 	

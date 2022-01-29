@@ -258,8 +258,8 @@ ol > li:hover > a
 .menuitem
 {
 	text-align: center;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 }
 
@@ -351,11 +351,11 @@ ol > li:hover > a
 	float: left;
 }
 
-.gplus
+.yt
 {
 	width: 125px;
 	height: 75px;
-	float: left;s
+	float: left;
 }
 
 .footer
@@ -416,7 +416,7 @@ ol > li:hover > a
 	float: left;
 }
 
-.gplus
+.yt
 {
 	width: 60px;
 	height: 40px;
