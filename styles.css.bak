@@ -11,6 +11,13 @@ a
 	color: #ffffff;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 @media all 
 {	
 .wrapper
@@ -145,14 +152,14 @@ ol > li:hover > a
 	background-color: #fbad50;
 }
 
-.gplus
+.yt
 {
 	width: 250px;
 	height: 155px;
 	float: left;
 }
 
-.gplus:hover
+.yt:hover
 {
 	background-color: #db4a39;
 }
@@ -171,12 +178,10 @@ ol > li:hover > a
   margin: auto;
 }
 
-/* Hide the images by default */
 .mySlides {
   display: none;
 }
 
-/* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
   position: absolute;
@@ -192,13 +197,11 @@ ol > li:hover > a
   user-select: none;
 }
 
-/* Position the "next button" to the right */
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
-/* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }
@@ -221,7 +224,6 @@ ol > li:hover > a
   top: 0;
 }
 
-/* The dots */
 .dot {
   cursor: pointer;
   height: 15px;
@@ -298,6 +300,21 @@ ol > li:hover > a
 	background-color: #222222;
 	padding: 30px;
 }}
+
+@media (max-width: 700px)
+{
+	.content
+{
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #e34334
+	text-align: justify;
+	background-repeat: no-repeat;
+    background-size: contain;
+	
+}
+}
 
 @media (max-width: 620px) {
 	
