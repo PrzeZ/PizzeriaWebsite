@@ -11,11 +11,17 @@ a
 	color: #ffffff;
 }
 
-img {
+img 
+{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+iframe
+{
+	align-self: center;
 }
 
 @media all 
@@ -58,11 +64,11 @@ img {
 ol
 {
 	padding: 0;
-	margin 0;
+	margin: 0;
 	list-style-type: none;
-	font size: 20px;
+	font-size: 20px;
 	height: 35px;
-	line height: 200%;
+	line-height: 200%;
 	display: inline-block;
 }
 
@@ -95,7 +101,7 @@ ol > li:hover > a
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
-	color: #e34334
+	color: #e34334;
 	text-align: justify;
 	background-repeat: no-repeat;
     background-size: contain;
@@ -272,7 +278,7 @@ ol > li:hover > a
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
-	color: #e34334
+	color: #e34334;
 	text-align: justify;
 	background-repeat: no-repeat;
     background-size: contain;
@@ -307,7 +313,7 @@ ol > li:hover > a
 	width: 600px;
 	margin-left: auto;
 	margin-right: auto;
-	color: #e34334
+	color: #e34334;
 	text-align: justify;
 	background-repeat: no-repeat;
     background-size: contain;
@@ -338,7 +344,7 @@ ol > li:hover > a
 	width: 400px;
 	margin-left: auto;
 	margin-right: auto;
-	color: #e34334
+	color: #e34334;
 	text-align: justify;
 	background-repeat: no-repeat;
     background-size: contain;
@@ -405,7 +411,7 @@ ol > li:hover > a
 	width: 200px;
 	margin-left: auto;
 	margin-right: auto;
-	color: #e34334
+	color: #e34334;
 	text-align: justify;
 	background-repeat: no-repeat;
     background-size: contain;
@@ -462,7 +468,7 @@ ol > li:hover > a
 	width: 200px;
 	margin-left: auto;
 	margin-right: auto;
-	color: #e34334
+	color: #e34334;
 	text-align: justify;
 	background-repeat: no-repeat;
     background-size: contain;
